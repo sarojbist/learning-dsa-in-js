@@ -1,3 +1,5 @@
+# This is the repo where I will share all the hand written notes of DSA by Sheryians Coding School
+
 # 1: Basics logic on JS - variable, operator, operation on operator
 
 ## Variables and Operations
