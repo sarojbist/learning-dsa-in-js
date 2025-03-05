@@ -17,3 +17,11 @@
 - Calculate the area and perimeter of a rectangle  
 - Find the area of a triangle using Heron's formula  
 - Compute the circumference of a circle  
+
+# 2: Understanding COnditionals
+
+## Variables and Operations
+- Sum of two integers  
+
+
+
