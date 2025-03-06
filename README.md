@@ -18,10 +18,20 @@
 - Find the area of a triangle using Heron's formula  
 - Compute the circumference of a circle  
 
-# 2: Understanding COnditionals
+# 2: Understanding Conditionals
 
-## Variables and Operations
-- Sum of two integers  
+## Questions
+- Valid Voter
+- Shop Discount  
+- Electrcity Bill
+- INR Denomination
+
+## Topics Covered
+- Ternary Operator  
+- Switch Statement  
+- Fallthrough in Switch
+- Truthy Switch Pattern
+- Precision   
 
 
 
