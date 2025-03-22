@@ -33,5 +33,23 @@
 - Truthy Switch Pattern
 - Precision   
 
+# 3: Loops
+
+## Questions
+- Sum of n natural numbers
+- Factorial of a number  
+- Finding the factors
+- Prime number between 1 and given number
+- Function to check prime number or not
+- Sum of digits
+- Reverse a number
+- Check the strong number
+- Guess the Number
+
+## Topics Covered
+- For Loop
+- Break and Continue
+- While Loop  
+- Do while Loop
 
 
