@@ -19,8 +19,6 @@ var binarySearch = function (arr, num) {
         // If the middle element is less than target, search the right half
         else left = mediumIndex + 1;
 
-        // Log the current sub-array being searched (left to right)
-        console.log("here array from left to right is", arr.slice(left, right +1), left, right + 1);
     }
 
     return -1;
